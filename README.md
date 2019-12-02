@@ -1,6 +1,7 @@
 # awesome-spacy
 
-I am using Spacy for the data enrichment in various search applications. Below you can find some useful materials on it.
+I am using Spacy for the data enrichment and natural language understanding in various search applications.
+Below you can find some useful materials on it.
 
 ## Articles
 
