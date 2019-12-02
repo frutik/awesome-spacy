@@ -15,6 +15,10 @@ Below you can find some useful materials on it.
 * [Rule-Based Matching with spaCy](https://medium.com/@ashiqgiga07/rule-based-matching-with-spacy-295b76ca2b68)
 * [spaCy and the ‘set_extension’ attributes](https://medium.com/@ashiqgiga07/spacy-and-the-set-extension-attributes-47a094c921c7)
 * [How to create custom NER model in Spacy](https://medium.com/@nikkisharma536/how-to-create-custom-ner-in-spacy-cfcd531f8773)
+* [Knowledge Graph — A Powerful Data Science Technique to Mine Information from Text](https://medium.com/analytics-vidhya/knowledge-graph-a-powerful-data-science-technique-to-mine-information-from-text-with-python-f8bfd217accc)
+* [SpaCy Classifier with pre-train token2vec VS. One without pre-train](https://towardsdatascience.com/nlp-spacy-classifier-with-pre-train-token2vec-vs-one-without-pre-train-2f05d2179290)
+
+
 * https://course.spacy.io/
 
 ## Docs
