@@ -1,6 +1,4 @@
-# awesome-nlp
-
-## spacy
+# awesome-spacy
 
 * Entity Extraction with spaCy https://medium.com/@radu.gheorghe/entity-extraction-with-spacy-234d3d11e3ba
 * A tour of awesome features of spaCy https://medium.com/eliiza-ai/a-tour-of-awesome-features-of-spacy-part-1-2-58b32425954f
@@ -17,7 +15,3 @@
 * https://spacy.io/api/textcategorizer
 * spaCy and the ‘set_extension’ attributes https://medium.com/@ashiqgiga07/spacy-and-the-set-extension-attributes-47a094c921c7
 * https://course.spacy.io/
-
-## gensim
-
-## other
